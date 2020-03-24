@@ -1,0 +1,11 @@
+"D:\Clion\install\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Algorithm\Algorithm\Algorithm
+-- The C compiler identification is GNU 8.1.0
+-- Check for working C compiler: D:/Clion/MinGW/install/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0/mingw64/bin/gcc.exe
+-- Check for working C compiler: D:/Clion/MinGW/install/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0/mingw64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Algorithm/Algorithm/Algorithm/cmake-build-debug
